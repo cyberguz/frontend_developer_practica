@@ -1,5 +1,6 @@
 margin --> 4 valores: top, right, bottom, left / expresados en px. 
 si no quieres asignarles valor, le pones 0, sin px.
+padding: 0 24px; /*arriba y abajo 0, costados 24px*/
 
 Para realizar reemplazos de codigo masivo:
 seleccionamos parte de codigo a reemplazar y luego usamos "Ctrol + F"
